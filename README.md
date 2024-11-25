@@ -235,11 +235,12 @@ Publish the website in the given URL.
 
 
 # OUTPUT:
-![Screenshot 2024-11-25 131827](https://github.com/user-attachments/assets/033861f0-2fe1-49dc-9d6e-9ee07b7b62a9)
-![Screenshot 2024-11-25 131901](https://github.com/user-attachments/assets/54356855-b4df-4fae-b8d3-9f3f0d38d8b2)
-![Screenshot 2024-11-25 131914](https://github.com/user-attachments/assets/41500cb0-a09c-4ddb-a10c-a17e0daeb594)
-![Screenshot 2024-11-25 131943](https://github.com/user-attachments/assets/7c1e6fe6-e5f5-446f-b2d3-d0f7bdeca548)
-![Screenshot 2024-11-25 132000](https://github.com/user-attachments/assets/ef1aa903-faec-40a3-ac0c-512048c34e9c)
+![Screenshot 2024-11-25 134116](https://github.com/user-attachments/assets/45664c22-1b3f-4e47-8331-a1f583bc63d7)
+![Screenshot 2024-11-25 134138](https://github.com/user-attachments/assets/561f1194-5613-4c7b-a7fb-e2c245b6f30f)
+![Screenshot 2024-11-25 134155](https://github.com/user-attachments/assets/5471f246-9540-42d6-89ce-703b454e7c86)
+![Screenshot 2024-11-25 134251](https://github.com/user-attachments/assets/e0d2149a-eca2-45f2-bb51-014e45f12daf)
+![Screenshot 2024-11-25 134310](https://github.com/user-attachments/assets/cf274b3e-9f66-4663-8a35-c9559a44835d)
+
 
 # RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
