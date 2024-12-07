@@ -27,7 +27,7 @@ Publish the website in the given URL.
 
 # PROGRAM:sudharsan.s(24009664)
      
-
+     ```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -232,6 +232,7 @@ Publish the website in the given URL.
     </footer>
 </body>
 </html>
+     ```         
 
 
 # OUTPUT:
